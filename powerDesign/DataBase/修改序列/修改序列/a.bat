@@ -1,0 +1,1 @@
+sqlplus erp/erp@wdserver @.\ÐÞ¸ÄÐòÁÐNEW.SQL

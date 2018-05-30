@@ -1,0 +1,38 @@
+drop function FUN_GETDIEBOM
+/
+create or replace function FUN_GETDIEBOM wrapped 
+a000000
+354
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+8
+86a 3cd
++bwDS/GlYpSmxtZLD5PqOsDtAwwwgzsrr0jrZy9DbmR1DAHaGFGevctGZjuQUpiVGbIeMiVB
+K972oi8uzBbDWnPFSmjIU/6FeKUfR+LNG9x5o8XAWjTau9cjF5o0Lm5tWsc+yv8CMYAAiwSX
+d8HS2cbdAtQQw9Z6hGybjqm85sP7Fne+0w7QSRHnJyGZtjangaboq/yugnpRyrqAuzmU9WU+
+7N5EXuhRHehBknKfvx149jcvQ5dTW0GzE5WfbqEBXujGQ8dh1Ffs8QN06HYXG5GI7IhenwXa
+IXl/jIfj+HHSVtNlWXwlHnjx7qjwEN9dGwFxaJvHrw3uhjUouXNUuYYwFVC9enSr/egNBjO4
+lOvOaQkiWA6SH+ZmFygC1VhtLSC/r1F4reoRKj0H8kwdMBx6xQyXSvleZtEcjeOy77A7phV6
+QrL3WdiR8mYNyBpBFlst8SlMMfsejVo3nstsH8jffytmLzyW5teDG8q01ksBgy3JW00vRRQM
+R8KaCpR1BNYsKxKsnGTd+IH4+NfETyRIesjlMpQvCes53WRFYwtrSnNbr3kHnbQdu14Ia1ft
+RjpLKCDqH8FiRr5bsbEe1ghwLXFv1TCqLVQVOpzpUgHci0+exyoPlE+cbQxXMdQPVj4Q9rKu
+QG0bMVb/YTHquxhc7tOgnOsGNQwL7eXCJXDVlc9CYAyQ7NlkLJmjPbqctE5xf102lUAQlcMw
+5XKFQ1oabsP64Hezrzn/+te+BU3mj/P0BzZL93kH3NVhBmR/PKcmmz2kaVwxxN6DGMMPWxBb
+tEhqNVUAd4AuqW2fuNn//akNgeXazf0uMq2KfDi5OQWLQk++YXV9D9fC647aR651ReGkThQT
+jP8vMsyCPM1iLsc+mAq53fmnIL4OmC4Qe80O82PFk16h8dR+kBG35awO02/xoVSkey1g9Ee4
+O2SbGGK1ZrS2FIp9+izIgpIB
+
+/

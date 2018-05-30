@@ -1,0 +1,37 @@
+drop function FUN_PRODMAKEQUALITYINFO
+/
+create or replace function FUN_PRODMAKEQUALITYINFO wrapped 
+a000000
+354
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+8
+74c 378
+AW14JvA/Bzr/m43quTlQvBaQr6cwg9fD10rrZ3SLaLClAY1GHSfqBiVpGiFYfoAT/4k6a9KO
+9Fw3HVVRuSvnJq4CV8qPpDDz0Xqm05/JJRoxSO6sosNctgVPzbv9xr6UJu4JZ0jprV5lExuc
+ilgunkhvcV1lXccm0fqFgo8VS5noURyp4NTF+3K2jdzTMstx6mB5mV79ak4/JBgS1wtvgjkm
+XAEyj6uGxyOxCZXtKRWQoKS7CwZBS+tFxXSAEJeLFQ5Kv40q1VQnj6gcx2ywZ1nyrh15Tr1e
+VC1mVDxG8pEhrG8kdFk2wlaCK923sHxn1sOIpxyWptaC6F6K3bAATVLoXWgy2PCDmaW0vcoa
+Jn8LPpmn513hQgkRX8GSP5p67knIC5+v6Yx7e6ymCvuPZJKMA25/LbHFG0J1oUligUb3abHK
+qqNa16PnIQh25iyb4+hn1kvpNyVnC6RENTbJFaJcNBwoJ+ep901CaPqJp/QqtlmsEP4AtA0/
+jlmcfhHnrBNDBUM9Ymh+6u6Bn5SvCtcjlCOGPSMSEP3LZmeuQ1dTbOw7/iCnEwEAnhmHCbWY
+pASTK/48UBifmKaHIDwFv6WbHRpj3/Qte8B7LBEMvseRhC4ZPVg0jXdXUL9cYLuHEezO83Q0
+HIGkhJwQVZed75MmKKpwvf7TMl4pC0pQMnj9HWqTSOvkIEJvCf/PbaoMmCO0mUgR+6QUJGqQ
+yAzVwp+R7BE8I0QHnkyXzKUpscQsgb8lGXTO7v0BiNtJSw+8qvmTCxPwhvewqSydYWvXG/1K
+RVpF3OCPedLy8ZDsprjvnSCF6lINB7weUw0keg7ejG2lzRyvoI4erMU42i+d1uweoiBog+mk
+JEIs5DljdX2w
+
+/

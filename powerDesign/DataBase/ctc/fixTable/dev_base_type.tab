@@ -1,0 +1,48 @@
+create table DEV_BASE_TYPE
+(
+  id                INTEGER not null,
+  c_code            VARCHAR2(50) not null,
+  c_name            VARCHAR2(100),
+  c_table_name      VARCHAR2(100),
+  i_oper_id         INTEGER not null,
+  c_oper_name       VARCHAR2(50) not null,
+  d_insert_date     DATE default SYSDATE not null,
+  i_oper_modifyid   INTEGER not null,
+  c_oper_modifyname VARCHAR2(50) not null,
+  d_modify_date     DATE default SYSDATE not null,
+  i_del             INTEGER default 0 not null,
+  c_aliascode       VARCHAR2(200) default 'cnull' not null
+)
+;
+comment on table DEV_BASE_TYPE
+  is '设备类型';
+comment on column DEV_BASE_TYPE.id
+  is '主键';
+comment on column DEV_BASE_TYPE.c_code
+  is '编号';
+comment on column DEV_BASE_TYPE.c_name
+  is '类别';
+comment on column DEV_BASE_TYPE.c_table_name
+  is '对应数据库设备表表名';
+comment on column DEV_BASE_TYPE.i_oper_id
+  is '操作员编号';
+comment on column DEV_BASE_TYPE.c_oper_name
+  is '操作员姓名';
+comment on column DEV_BASE_TYPE.d_insert_date
+  is '记录插入日期';
+comment on column DEV_BASE_TYPE.i_oper_modifyid
+  is '修改记录操作员编号';
+comment on column DEV_BASE_TYPE.c_oper_modifyname
+  is '修改记录操作员姓名';
+comment on column DEV_BASE_TYPE.d_modify_date
+  is '修改记录记录日期';
+comment on column DEV_BASE_TYPE.i_del
+  is '记录删除标志【1为删除，其他为正常记录】';
+comment on column DEV_BASE_TYPE.c_aliascode
+  is '辅助名';
+alter table DEV_BASE_TYPE
+  add constraint PK_DEV_BASE_TYPE primary key (ID);
+alter table DEV_BASE_TYPE
+  add constraint CKC_I_DEL_DEV_BASE
+  check (I_DEL in (0,1));
+

@@ -1,0 +1,1 @@
+sqlplus erp/erp@sjjz @.\creatematerializeview.sql

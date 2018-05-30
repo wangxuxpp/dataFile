@@ -1,0 +1,2 @@
+修改数据库无法导出空表方法
+alter system set deferred_segment_creation=false

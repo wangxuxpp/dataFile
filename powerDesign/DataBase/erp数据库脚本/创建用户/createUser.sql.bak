@@ -1,0 +1,11 @@
+drop user erptesta cascade;
+create user erptesta identified by erptest ACCOUNT unlock
+default tablespace users
+temporary tablespace temp;
+
+grant resource to erptesta;
+grant connect to erptesta;
+grant create any table to erptesta;
+grant select on OBJ$ to erptesta;
+grant create any view to erptesta;
+grant create any library to erptesta;

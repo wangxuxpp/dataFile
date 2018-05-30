@@ -1,0 +1,1 @@
+sqlplus es/es@sjjz @.\ÐÞ¸ÄÐòÁÐNEW.SQL

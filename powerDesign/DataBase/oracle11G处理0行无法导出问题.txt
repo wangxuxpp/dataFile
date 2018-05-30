@@ -1,0 +1,2 @@
+alter system set  deferred_segment_creation=false; 
+select 'alter table '||table_name||' allocate extent;' from user_tables where num_rows=0 

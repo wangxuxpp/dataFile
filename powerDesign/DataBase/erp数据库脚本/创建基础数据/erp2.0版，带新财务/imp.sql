@@ -1,0 +1,10 @@
+@.\NF_INDUSTRYSUBJECT.sql
+@.\NF_NUMBERLENGTH.sql
+@.\NF_SUBJECTCLASS.sql
+@.\NF_SUBJECTSETUP.sql
+@.\sys_checktype.sql
+@.\sys_environment.sql
+@.\sys_formdefandmodel.sql
+@.\sys_formshowdefault.sql
+@.\sys_modelwin(模块主表).sql
+@.\sys_modelwinsub(模块子表).sql

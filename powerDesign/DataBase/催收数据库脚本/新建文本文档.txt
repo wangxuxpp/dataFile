@@ -1,0 +1,1 @@
+update gongsixinxi a set a.c_registercode = fun_setstrgeneral(to_char(a.d_endtdate ,'yyyy-mm-dd') , a.c_urladdr );

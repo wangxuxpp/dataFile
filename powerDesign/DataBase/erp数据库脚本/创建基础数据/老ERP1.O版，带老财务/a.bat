@@ -1,0 +1,1 @@
+sqlplus erp/erp@sjjz @.\a.sql

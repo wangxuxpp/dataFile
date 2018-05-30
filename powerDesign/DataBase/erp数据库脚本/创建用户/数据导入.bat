@@ -1,0 +1,1 @@
+sqlplus sys/sys@sjjz as sysdba @.\createUser.sql

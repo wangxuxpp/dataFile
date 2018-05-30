@@ -1,0 +1,2 @@
+tools->preferences菜单下的 
+options 的automatic statistics 的选项去掉

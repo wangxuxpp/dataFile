@@ -1,0 +1,12 @@
+drop user sap cascade;
+create user sap identified by sap ACCOUNT unlock
+default tablespace users
+temporary tablespace temp;
+
+grant resource to sap;
+grant connect to sap;
+grant create any table to sap;
+grant select on OBJ$ to sap;
+grant create any view to sap;
+grant create any library to sap;
+grant create any materialized view to sap;
