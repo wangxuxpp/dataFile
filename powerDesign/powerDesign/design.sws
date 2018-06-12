@@ -41,7 +41,7 @@
 		<Model ID="{8EFBFA5C-226C-4507-9C08-DF0539C00E50}" Loaded="No" Name="过车数据" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="ctc/过车数据.pdm"/>
 		<Model Expanded="Yes" ID="{0121E395-D350-41EE-A160-B1E8E3113635}" Loaded="No" Name="易高分" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="易高分/易高分.pdm"/>
 		<Model Expanded="Yes" ID="{B436CF20-2455-49E4-BB5A-2820F72B7EAA}" Loaded="No" Name="元格项目-产值分配" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="元格/元格项目.pdm"/>
-		<Model ID="{022E1FC0-7A5D-4A16-9686-44CB77112288}" Name="元格项目-进销存" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="元格/元格项目-进销存.pdm"/>
+		<Model Expanded="Yes" ID="{022E1FC0-7A5D-4A16-9686-44CB77112288}" Name="元格项目-进销存" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="元格/元格项目-进销存.pdm"/>
 		<Model Expanded="Yes" ID="{BCBBDCB2-B206-4D13-B09D-D1A99733600B}" Loaded="No" Name="元格项目-模板上传" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="元格/元格项目-模板上传.pdm"/>
 		<Model Expanded="Yes" ID="{8D26054A-D935-4FD1-A325-C656F70F1478}" Name="元格项目-自助环保液" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="元格/元格项目-自助环保液.pdm"/>
 		<Model ID="{6E7A355D-8AC0-488E-AF1D-EEB4D35C1B8F}" Loaded="No" Name="元格项目-六人" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="元格/元格项目-六人.pdm"/>
